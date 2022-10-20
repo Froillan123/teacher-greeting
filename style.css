@@ -33,6 +33,7 @@ body{
     color: #fff;
     text-transform: uppercase;
     letter-spacing: 3px;
+    margin-left: 10px;
 }
 @keyframes anim
 {
